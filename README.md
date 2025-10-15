@@ -27,7 +27,7 @@ A **appSalario** é um app educacional voltado para o aprendizado de:
 ```
 app/
  ├── java/
- │    └── br/ulbra/appcompras/
+ │    └── br/ulbra/appSalario/
  │         └── SalarioActivity.java
  ├── res/
  │    ├── layout/
