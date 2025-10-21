@@ -52,6 +52,14 @@ O layout principal (`activity_main.xml`) contém:
 - 1 botão (para calcular)
 - 3 TextView
 
+---
+
+
+## 📸 Demonstração
+
+### Tela 
+
+![Figura 1:](/img/img.png)
 
 ---
 
